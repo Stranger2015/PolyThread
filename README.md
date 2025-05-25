@@ -1,15 +1,12 @@
 # PolyThread
+
 PolyThread is the Java library for synchronization and multi-threading that integrates 
 **platform threads**, 
 **virtual threads**,
 **coroutines**, 
 **fibers**,
-**CompletableFuture**,
+**CompletableFuture**
 and **OS processes**.
-Creating a Java library for synchronization and multi-threading that integrates **platform threads**,
-**virtual threads**, **coroutines**, **fibers**, **CompletableFuture**, and even **OS processes** is an ambitious but
-feasible project. Below, I'll provide an estimation of the effort required, key considerations, and potential
-challenges.
 
 The library would aim to:
 - Provide abstractions for managing different concurrency models.
